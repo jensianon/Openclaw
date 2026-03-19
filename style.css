@@ -1,0 +1,13 @@
+/* Polanco Montage Stijl */
+body { font-family: 'Arial', sans-serif; margin: 0; padding: 0; background-color: #f9f9f9; color: #333; }
+header { background: #004a99; color: #fff; padding: 20px 0; }
+nav { display: flex; justify-content: space-around; align-items: center; }
+nav ul { list-style: none; display: flex; gap: 20px; }
+nav ul li a { color: #fff; text-decoration: none; }
+.hero { text-align: center; padding: 100px 20px; background: #fff; border-bottom: 3px solid #004a99; }
+.services { padding: 50px 20px; text-align: center; }
+.card-container { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
+.card { background: #fff; padding: 20px; border-radius: 8px; border: 1px solid #ddd; width: 250px; }
+.contact { padding: 50px 20px; text-align: center; background: #fff; }
+footer { background: #333; color: #fff; text-align: center; padding: 10px; margin-top: 50px; }
+.btn { background: #ff4500; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; text-decoration: none; }
